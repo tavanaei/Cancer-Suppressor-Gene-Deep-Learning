@@ -1,6 +1,6 @@
 # Cancer Suppressor Gene and Oncogene Prediction using Deep Learning (CNN)
 
-# This project has been written in **Lua** and uses the **Torch** library.
+## This project has been written in **Lua** and uses the **Torch** library.
 
 #### To generate the Feature map sets:
   1. Create CSV files of protein tertiary structures as explained in the paper (see the liscence file). Three example-CSV files representing one protein have been uploaded to "SG" and "OG" folders.

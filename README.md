@@ -20,6 +20,7 @@ To generate the Feature map sets:
   $ th Training.lua [Parameters]
   </br>
   Parameters:
+  <p style="text-indent: 5em;">
   </br>
     -positive          Positive directory [OG_Map]
     </br>
@@ -62,6 +63,7 @@ To generate the Feature map sets:
     -model             Model File [Model.t7]
     </br>
     -result            Test Results of Target vs Predict [ResTest.dat]
+    </p>
     </br>
     .
     </br>

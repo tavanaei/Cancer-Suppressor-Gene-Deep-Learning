@@ -18,8 +18,9 @@ To generate the Feature map sets:
   
   $ th Training.lua [Parameters]
   </br>
-  Parameters:
   </br>
+  Parameters:
+  
   </br>
     -positive          Positive directory [OG_Map]
     </br>

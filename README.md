@@ -1,7 +1,7 @@
 # Cancer-Suppressor-Gene-Deep-Learning
 </br>
 </br>
-##</tr> This project has been written in **Lua** and uses the **Torch** library.
+## This project has been written in **Lua** and uses the **Torch** library.
 </br>
 .
 </br>

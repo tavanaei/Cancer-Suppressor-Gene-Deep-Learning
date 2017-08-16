@@ -1,7 +1,10 @@
 # Cancer-Suppressor-Gene-Deep-Learning
 </br>
+.
 </br>
-This project has been written in Lua and uses the Torch library.
+</tr> This project has been written in Lua and uses the Torch library.
+</br>
+.
 </br>
 To generate the Feature map sets:
 </br>
@@ -11,6 +14,7 @@ To generate the Feature map sets:
   </br>
   c. Set up your preferred parameters by runing the Training.lua as follows:
   </br>
+  .
   </br>
   
   $ th Training.lua [Parameters]
@@ -59,6 +63,7 @@ To generate the Feature map sets:
     </br>
     -result            Test Results of Target vs Predict [ResTest.dat]
     </br>
+    .
     </br>
 
 We only considered one GPU for this example. If you want to use more GPUs, please update the Training.lua by adding the DataParallelTable ...

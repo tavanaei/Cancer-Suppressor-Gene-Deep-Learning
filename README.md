@@ -1,4 +1,4 @@
-# Cancer-Suppressor-Gene-Deep-Learning
+# Cancer Suppressor Gene and Oncogene Prediction using Deep Learning (CNN)
 
 # This project has been written in **Lua** and uses the **Torch** library.
 

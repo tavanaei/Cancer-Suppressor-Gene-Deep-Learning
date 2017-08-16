@@ -1,6 +1,5 @@
 # Cancer-Suppressor-Gene-Deep-Learning
 </br>
-.
 </br>
 </tr> This project has been written in Lua and uses the Torch library.
 </br>
@@ -20,6 +19,7 @@ To generate the Feature map sets:
   $ th Training.lua [Parameters]
   </br>
   Parameters:
+  </br>
   </br>
     -positive          Positive directory [OG_Map]
     </br>

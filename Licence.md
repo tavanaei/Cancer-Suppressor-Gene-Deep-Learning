@@ -1,4 +1,4 @@
-### Free to use, publish, modify *if* you cite the original paper:
+### Free to use, publish, and modify *if* you cite the original paper:
 
 @article {Tavanaei177378, </br>
 	author = {Tavanaei, Amirhossein and Anandanadarajah, Nishanth and Loganantharaj, Rasiah},</br>

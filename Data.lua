@@ -16,6 +16,7 @@ end
 
 function M.Maper(cancerType)
 	local pros = paths.dir('Data/' .. cancerType)
+	os.execute("mkdir " .. "Data/" .. cancerType .. "_Map")
 	table.remove(pros,1)
 	table.remove(pros,1)
 	table.sort(pros)

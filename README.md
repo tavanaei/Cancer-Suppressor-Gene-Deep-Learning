@@ -59,4 +59,8 @@
 
 ##### Reference:
 
+Tavanaei, Amirhossein, Anandanadarajah Nishanth and Rasiah Loganantharaj, "*A Deep Learning Model for Predicting Tumor Suppressor Genes and Oncogenes from PDB Structure*", 
+doi: 10.1101/177378, bioRxiv, 2017.
+
+
 

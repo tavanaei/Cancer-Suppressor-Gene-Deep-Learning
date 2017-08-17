@@ -3,7 +3,7 @@
 ## This project has been written in **Lua** and uses the **Torch** library.
 
 #### To generate the Feature map sets:
-  1. Create CSV files of protein tertiary structures as explained in the paper (see the liscence file). Three example-CSV files representing one protein have been uploaded to "SG" and "OG" folders.
+  1. Create CSV files of protein tertiary structures as explained in the paper (see the license file). Three example-CSV files representing one protein have been uploaded to "SG" and "OG" folders.
   2. Call the "Maper" function in Data.lua
   3. Set up your preferred parameters by runing the Training.lua as follows:
   
